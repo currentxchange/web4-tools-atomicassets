@@ -2,11 +2,11 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "target": "es2022",
+    "target": "es2016",
     "allowJs": true,
     "resolveJsonModule": true,
     "moduleResolution": "node",
-    "module": "ESNext",
+    "module": "commonjs",
     "noEmit": true,
     "lib": ["es2022", "dom", "dom.iterable"],
     "strict": false,
