@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "target": "es2022",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "noEmit": true,
+    "lib": ["es2022", "dom", "dom.iterable"],
+    "strict": false,
+    "noUncheckedIndexedAccess": true
+  }
+}
