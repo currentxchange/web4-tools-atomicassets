@@ -1,7 +1,7 @@
 {
-  "name": "@cXc.world/web4-atomicassets",
+  "name": "@cxc.world/web4-atomicassets",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A collection of helpers for working with Atomic Assets for cXc's web4-enabled Metadata Standards 🛠 Extends atomicassets package.",
   "author": {
     "name": "Douglas James Butner",
@@ -24,7 +24,7 @@
     "type": "paypal",
     "url": "https://www.paypal.me/cXcMusic"
   },
-  "private":"false",
+  "private": "false",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
