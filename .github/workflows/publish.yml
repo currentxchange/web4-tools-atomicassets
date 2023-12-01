@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 16.x
           cache: pnpm
-      - run: pnpm install --frozen-lockfilenvm
+      - run: pnpm install
       - name: Create Release Pull Request or Publish
         id: changesets
         uses: changesets/action@v1
