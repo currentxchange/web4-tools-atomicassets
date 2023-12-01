@@ -1,5 +1,11 @@
 # @cXc.world/web4-atomicassets
 
+## 0.0.4
+
+### Patch Changes
+
+- Update Readme
+
 ## 0.0.3
 
 ### Patch Changes

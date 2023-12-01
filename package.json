@@ -1,7 +1,7 @@
 {
   "name": "@cxc.world/web4-atomicassets",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "access": "public",
   "description": "A collection of helpers for working with Atomic Assets for cXc's web4-enabled Metadata Standards 🛠 Extends atomicassets package.",
   "author": {

@@ -1,8 +1,8 @@
-# Web4 Tools for Atomic Assets
+# Web4 Tools for Atomic Assets 🛠
 NFT tools to empower WAX Metadata Standards using spacetime data (web4) on Atomic Assets in node.js
 
 
-## Overview
+## Overview 
 
 This NPM package provides a set of functions to interact with the AtomicAssets API, particularly focusing on retrieving NFT (Non-Fungible Token) data based on various filters and criteria. The package utilizes the `ExplorerApi` and `RpcApi` from the `atomicassets` module to fetch data from the WAX blockchain. 
 
@@ -49,7 +49,7 @@ This NPM package provides a set of functions to interact with the AtomicAssets A
   - `fieldFilters`: Object. An object where keys are field names and values are the field values to filter by.
 - **Returns:** A Promise that resolves to an array of NFTs filtered by the specified nation and other fields.
 
-## Installation
+## Installation ⚡️
 
 To use this package, you need to install it via NPM:
 
